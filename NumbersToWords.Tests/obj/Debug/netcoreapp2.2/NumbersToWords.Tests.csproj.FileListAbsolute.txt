@@ -1,0 +1,17 @@
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords.Tests/obj/Debug/netcoreapp2.2/NumbersToWords.Tests.csprojAssemblyReference.cache
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords.Tests/obj/Debug/netcoreapp2.2/NumbersToWords.Tests.csproj.CoreCompileInputs.cache
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords.Tests/obj/Debug/netcoreapp2.2/NumbersToWords.Tests.AssemblyInfoInputs.cache
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords.Tests/obj/Debug/netcoreapp2.2/NumbersToWords.Tests.AssemblyInfo.cs
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords.Tests/bin/Debug/netcoreapp2.2/NumbersToWords.Tests.deps.json
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords.Tests/bin/Debug/netcoreapp2.2/NumbersToWords.Tests.runtimeconfig.json
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords.Tests/bin/Debug/netcoreapp2.2/NumbersToWords.Tests.runtimeconfig.dev.json
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords.Tests/bin/Debug/netcoreapp2.2/NumbersToWords.Tests.dll
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords.Tests/bin/Debug/netcoreapp2.2/NumbersToWords.Tests.pdb
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords.Tests/bin/Debug/netcoreapp2.2/NumbersToWords.dll
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords.Tests/bin/Debug/netcoreapp2.2/NumbersToWords.pdb
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords.Tests/obj/Debug/netcoreapp2.2/NumbersToWords.Tests.csproj.CopyComplete
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords.Tests/obj/Debug/netcoreapp2.2/NumbersToWords.Tests.dll
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords.Tests/obj/Debug/netcoreapp2.2/NumbersToWords.Tests.pdb

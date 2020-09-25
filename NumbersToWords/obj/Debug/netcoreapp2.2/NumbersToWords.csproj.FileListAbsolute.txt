@@ -1,0 +1,11 @@
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords/obj/Debug/netcoreapp2.2/NumbersToWords.csprojAssemblyReference.cache
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords/obj/Debug/netcoreapp2.2/NumbersToWords.csproj.CoreCompileInputs.cache
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords/obj/Debug/netcoreapp2.2/NumbersToWords.AssemblyInfoInputs.cache
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords/obj/Debug/netcoreapp2.2/NumbersToWords.AssemblyInfo.cs
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords/bin/Debug/netcoreapp2.2/NumbersToWords.deps.json
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords/bin/Debug/netcoreapp2.2/NumbersToWords.dll
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords/bin/Debug/netcoreapp2.2/NumbersToWords.pdb
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords/obj/Debug/netcoreapp2.2/NumbersToWords.dll
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords/obj/Debug/netcoreapp2.2/NumbersToWords.pdb
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords/bin/Debug/netcoreapp2.2/NumbersToWords.runtimeconfig.json
+/Users/granteadie/Desktop/EPICODUS/C#/numbers-to-words.Solution/NumbersToWords/bin/Debug/netcoreapp2.2/NumbersToWords.runtimeconfig.dev.json
